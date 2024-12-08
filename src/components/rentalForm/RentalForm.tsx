@@ -119,15 +119,15 @@ export const RentalForm: React.FC = () => {
               </div>
 
               <PaymentMethod
-                icon="https://cdn.builder.io/api/v1/image/assets/TEMP/3cc269869449bcfd4b05cef74199a866f94e4ed5ec5c4003ee9ec3b8337e60df?placeholderIfAbsent=true&apiKey=5967db0a3a5740a580d3441f6f0ec2df"
+                icon="/images/p1.svg"
                 name="PayPal"
-                logo="https://cdn.builder.io/api/v1/image/assets/TEMP/9cf08e5c8900b83ccc58baabde138351de6b2ca49a032f1044b0df3bd9a1f68e?placeholderIfAbsent=true&apiKey=5967db0a3a5740a580d3441f6f0ec2df"
+                logo="/images/p2.svg"
               />
               
               <PaymentMethod
-                icon="https://cdn.builder.io/api/v1/image/assets/TEMP/f8a88e1258beedbda2f25315430caadb509dfea43745c25d81261f690ca843ae?placeholderIfAbsent=true&apiKey=5967db0a3a5740a580d3441f6f0ec2df"
+                icon="/images/p1.svg"
                 name="Bitcoin"
-                logo="https://cdn.builder.io/api/v1/image/assets/TEMP/a76550f37a4d202e4ba552bdb07116b0e7bafc7255dbc2239eabce2a3a257438?placeholderIfAbsent=true&apiKey=5967db0a3a5740a580d3441f6f0ec2df"
+                logo="/images/p3.svg"
               />
             </div>
 

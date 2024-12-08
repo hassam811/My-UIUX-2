@@ -27,8 +27,8 @@ export const RentalSummary: React.FC<RentalSummaryProps> = ({
           loading="lazy"
           src={carImage}
           alt={carName}
-          height={6}
-          width={6}
+          height={108}
+          width={132}
           className="object-contain shrink-0 max-w-full aspect-[1.22] w-[132px]"
         />
         <div className="flex overflow-hidden flex-col my-auto">

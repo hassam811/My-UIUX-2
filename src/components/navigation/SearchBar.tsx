@@ -67,7 +67,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({ onSearch }) => {
         <Icon
           src="/images/Search.png"
           alt="Search icon"
-          className="w-6"
+          className="w-[24px] h-[24px] "
         />
         <label htmlFor="searchInput" className="sr-only">
           Search something here
@@ -83,7 +83,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({ onSearch }) => {
       <Icon
         src="/images/filter.png"
         alt="Filter icon"
-        className="w-6"
+        className="w-[24px] h-[24px]"
       />
     </div>
   );
