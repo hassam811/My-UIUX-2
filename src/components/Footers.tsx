@@ -83,7 +83,7 @@ const Footers = () => {
         <div className="bg-gray-100 text-center text-sm md:text-base py-5">
           <div className="container mx-auto flex flex-wrap justify-center sm:justify-between items-center">
             <p className="text-gray-800 mb-2 sm:mb-0">
-              ©2020 MORENT. All rights reserved
+              ©2024 MORENT HX. All rights reserved
             </p>
             <div className="flex space-x-4">
               <a className="text-gray-800 hover:underline">Privacy & Policy</a>

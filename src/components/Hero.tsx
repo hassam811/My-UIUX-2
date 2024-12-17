@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <div className="bg-gray-50 min-h-screen flex items-center justify-center">
       <section className="container mx-auto px-4 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-9">
           {/* Left Card */}
           <div
             className="bg-blue-100 p-6 rounded-lg shadow-md"
@@ -29,7 +29,7 @@ const Hero = () => {
             <Image
               src="/images/hero1.png"
               alt="Car"
-              height={500}
+              height={490}
               width={500}
               className="mt-4 w-full max-w-[340px] mx-auto object-cover"
             />
@@ -45,7 +45,7 @@ const Hero = () => {
             }}
           >
             <h2 className="text-3xl font-bold text-[#FFFFFF] mb-2">
-              Easy way to rent a car at a low price
+              Easy way to rent a car at a low Rate
             </h2>
             <p className="text-white mb-6">
               Providing cheap car rental services and safe and comfortable facilities.
@@ -57,7 +57,7 @@ const Hero = () => {
               src="/images/hero2.png"
               alt="Car"
               height={500}
-              width={500}
+              width={480}
               className="mt-4 w-full max-w-[340px] mx-auto object-cover"
             />
           </div>
